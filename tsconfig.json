@@ -8,6 +8,9 @@
       ]
     }
   },
+  "exclude": [
+    "/assets/**/*"
+  ],
   "include": [
     "**/*.ts",
     "**/*.tsx",
